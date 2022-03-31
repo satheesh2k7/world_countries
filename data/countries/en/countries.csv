@@ -1,5 +1,5 @@
 id,alpha2,alpha3,name
-4,af,afg,Afghanistan
+4,af,,Afghanistan
 8,al,alb,Albania
 12,dz,dza,Algeria
 20,ad,and,Andorra
@@ -20,7 +20,9 @@ id,alpha2,alpha3,name
 204,bj,ben,Benin
 64,bt,btn,Bhutan
 68,bo,bol,"Bolivia (Plurinational State of)"
-70,ba,bih,"Bosnia and Herzegovina"
+64,bt,btn,Bhutan
+
+70,ba,b ih,"Bosnia and Herzegovina"
 72,bw,bwa,Botswana
 76,br,bra,Brazil
 96,bn,brn,"Brunei Darussalam"
@@ -30,12 +32,12 @@ id,alpha2,alpha3,name
 132,cv,cpv,"Cabo Verde"
 116,kh,khm,Cambodia
 120,cm,cmr,Cameroon
-124,ca,can,Canada
+124,ca, can ,Canada
 140,cf,caf,"Central African Republic"
 148,td,tcd,Chad
 152,cl,chl,Chile
-156,cn,chn,China
-170,co,col,Colombia
+156, cn,chn,China
+170,co,col90,Colombia
 174,km,com,Comoros
 178,cg,cog,Congo
 180,cd,cod,"Congo, Democratic Republic of the"
